@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nexora</string>
+
+    <string name="welcome_title">Welcome back</string>
+    <string name="welcome_subtitle">Sign in to continue to your workspace</string>
+    <string name="label_email">Work email address</string>
+    <string name="hint_email">name@company.com</string>
+    <string name="btn_continue_sso">Continue with SSO</string>
+    <string name="btn_continue_google">Continue with Google</string>
+    <string name="btn_continue_microsoft">Continue with Microsoft</string>
+    <string name="divider_or">OR</string>
+    <string name="footer_terms">By continuing, you agree to our Terms of Service and Privacy Policy.</string>
+
+    <string name="error_email_empty">Please enter your email address to continue.</string>
+    <string name="error_email_invalid">Please enter a valid email address to continue.</string>
+
+    <string name="toast_google_selected">Google SSO selected — redirecting to Google sign-in…</string>
+    <string name="toast_microsoft_selected">Microsoft SSO selected — redirecting to Microsoft sign-in…</string>
+
+    <string name="success_title">You\'re signed in!</string>
+    <string name="success_subtitle">Authentication successful</string>
+    <string name="signed_in_as">Signed in as</string>
+    <string name="success_message">Your identity was verified through Single Sign-On. You now have secure access to your workspace.</string>
+    <string name="btn_sign_out">Sign Out</string>
+</resources>

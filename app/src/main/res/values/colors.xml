@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#4A3FE8</color>
+    <color name="brand_primary_dark">#3428C4</color>
+    <color name="brand_secondary">#6C63FF</color>
+    <color name="brand_accent">#00C2A8</color>
+
+    <color name="background_light">#F5F6FB</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="text_primary">#1A1B2E</color>
+    <color name="text_secondary">#6B6D82</color>
+    <color name="text_hint">#A0A2B8</color>
+    <color name="divider">#E4E5F0</color>
+
+    <color name="error_red">#E63946</color>
+    <color name="success_green">#1BA672</color>
+
+    <color name="google_red">#EA4335</color>
+    <color name="microsoft_blue">#00A4EF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="button_border">#D8D9E6</color>
+</resources>
